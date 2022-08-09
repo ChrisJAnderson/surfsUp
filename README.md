@@ -5,9 +5,9 @@ We analyze two datasets of temperatures from June and December recorded in Oahu 
 The purpose of this analysis is to establish the viablility of a year-round surf shop and ice cream business in Hawaii.
 ## Results
 **December's summary stats**  
-![December's summary stats](https://github.com/ChrisJAnderson/surfsUp/blob/main/images/dectempSummaryStats.png,)  
-**June's summary stats**
-![June's summary stats](https://github.com/ChrisJAnderson/surfsUp/blob/main/images/junetempSummaryStats.png,)  
+![December's summary stats](https://github.com/ChrisJAnderson/surfsUp/blob/main/images/dectempSummaryStats.png)  
+**June's summary stats**  
+![June's summary stats](https://github.com/ChrisJAnderson/surfsUp/blob/main/images/junetempSummaryStats.png)  
 *The first difference we can see between December and June's summary statistics is a that december is slightly colder overall, with lower numbers in the 25%, 50%, and 75% quartile measures.  
 *There is also a difference in our average temperature, but it's slight- december still boasts an average temperature of 71 degrees versus june's 75 degrees.  
 *Finally, we can see a difference in the consistency of the temperatures from day-to-day in December versus in June. The std dev is higher for december, and our data encompasses a slightly wider ranger between the quartile measures- a difference of five degrees in december versus four degrees in june. The range of temperatures in December is also wider- a difference of 27 degrees between the max and min temperatures in december versus 21 degrees in june.  
